@@ -25,6 +25,10 @@
 
 *其他基础设置和搭建翻墙服务器一样
 
+sudo apt update
+
+sudo apt-get install wget
+
 
 ------------
 
