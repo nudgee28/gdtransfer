@@ -57,7 +57,7 @@ wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/Li
 
 - 装机至少20分钟，中间会失联，不要着急耐心等待：）
 - 用WINDOWS 自带的远程桌面链接，MAC系统用 MICORSOFT REMOTE DESKTOP BETA
-- 强调下远程桌面最好一定要用梯子连，不然卡的厉害，不挂梯子，不要觉得机器卡，其实是你网络卡（如果你有国内大云厂的机子，那是最好连起来好流畅！）
+- 强调下远程桌面最好一定要用梯子连，不然卡的厉害，不挂梯子，不要觉得机器卡，其实是你网络卡(这里推荐用中转服务器，cn2线路最好，最流畅，腾讯hk轻量is the best！！）
 - 装完如果发现上不了网，请确认网络设置里面DNS有没有添加，没有的话，打上8.8.8.8/8.8.4.4`
 
 
