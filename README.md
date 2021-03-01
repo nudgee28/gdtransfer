@@ -36,6 +36,12 @@ sudo apt-get install wget
 > 第二步：
 安装DD系统
 
+#### 注意：DD的系统链接都失效了，现在要么用自己的连接，要么网上找找其他的连接 替换掉'https://api.moeclub.org/GoogleDrive/1C9Y0Iu1pGX4-blb_3G49jOqv13Zeka6-' 这段就好了。
+#第一种办法.大家可以上传自己的vps，然后拉个直连，或者amazon的S3，或者其他网盘，上传后自己测试下，能直连下载就好
+#第二种办法.上传到自己的谷歌网盘，对外共享，提取后面连接的代码，替换掉（https://api.moeclub.org/GoogleDrive/【1C9Y0Iu1pGX4-blb_3G49jOqv13Zeka6-】【这里面这段】'
+系统镜像：www.nat.ee 这里去下载
+
+
 ```javascript
 wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && bash InstallNET.sh --ip-addr 10.170.0.20 --ip-mask 255.255.255.0 --ip-gate 10.170.0.1 -dd 'https://api.moeclub.org/GoogleDrive/1C9Y0Iu1pGX4-blb_3G49jOqv13Zeka6-'
 ```
