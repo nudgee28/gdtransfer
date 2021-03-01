@@ -42,7 +42,8 @@ sudo apt-get install wget
 
 
 ##第二种办法.上传到自己的谷歌网盘，对外共享，提取后面连接的代码，替换掉（https://api.moeclub.org/GoogleDrive/【1C9Y0Iu1pGX4-blb_3G49jOqv13Zeka6-】【这里面这段】'
-系统镜像：www.nat.ee 这里去下载
+
+##### 系统镜像：www.nat.ee 这里去下载
 
 ------------
 ##### 以下系统下载链接失效
